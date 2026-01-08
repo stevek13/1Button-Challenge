@@ -25,7 +25,7 @@ struct ContentView: View {
             Spacer()
             
             Button("Press Me!") {
-                let message1 = "You Are Awesom"
+                let message1 = "You Are Awesome!"
                 let message2 = "You Are Great!"
                 let image1 = "sun.max.fill"
                 let image2 = "hand.thumbsup"
